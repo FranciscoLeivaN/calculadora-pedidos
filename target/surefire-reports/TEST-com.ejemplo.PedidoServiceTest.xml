@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CL"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Franc\AppData\Local\Temp\surefire12450079536435096526\surefirebooter-20250623215732880_3.jar C:\Users\Franc\AppData\Local\Temp\surefire12450079536435096526 2025-06-23T21-57-32_713-jvmRun1 surefire-20250623215732880_1tmp surefire_0-20250623215732880_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Franc\AppData\Local\Temp\surefire10029893789529993675\surefirebooter-20250623221705087_3.jar C:\Users\Franc\AppData\Local\Temp\surefire10029893789529993675 2025-06-23T22-17-04_915-jvmRun1 surefire-20250623221705087_1tmp surefire_0-20250623221705087_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Franc\Desktop\calculadora-pedidos\calculadora-pedidos\target\test-classes;C:\Users\Franc\Desktop\calculadora-pedidos\calculadora-pedidos\target\classes;C:\Users\Franc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Franc\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Franc\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Franc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Franc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Franc\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Franc\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\Franc\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\Franc\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\Franc\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Franc\AppData\Local\Temp\surefire12450079536435096526\surefirebooter-20250623215732880_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Franc\AppData\Local\Temp\surefire10029893789529993675\surefirebooter-20250623221705087_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
